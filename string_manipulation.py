@@ -2,7 +2,7 @@
 # *  P Y T H O N    S T R I N G    M A N I P U L A T I O N     *
 # **************************************************************
 #  string_manipulation.py program
-#  Tom Riherd, last modified 12/04/2021
+#  Tom Riherd, last modified 12/09/2021
 #
 import os.path
 
